@@ -1,1 +1,2 @@
-# channel-subscription-customer-microservice
+# Channel-subscription-customer-microservice
+An application based on  microservice architecture
